@@ -10,11 +10,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,figma" />
   </a>
-  <p align='center'>formulario com react-hook-form, zod e radix-ui</p>
+  <p align='center'>Formulário: react-hook-form e zod</p>
+  <p align='center'>Modal: radix-ui</p>
+  <p align='center'>Simulated server: Json-server</p>
   <hr/>
 </p>
-
-
 
 <h4 align='center'>Home Page</h4>
 <p align='center'><img src='./src/assets/@finished/Home.png' alt='Home'></p>
