@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "description": "Desenvolvimento de site",
+      "price": 12000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "01-06-2023",
+      "id": 1
+    },
+    {
+      "description": "Teclado novo",
+      "price": 957,
+      "category": "compra",
+      "type": "outcome",
+      "createdAt": "04-06-2023",
+      "id": 2
+    },
+    {
+      "description": "mouse novo",
+      "price": 342,
+      "category": "compra",
+      "type": "outcome",
+      "createdAt": "03-06-2023",
+      "id": 3
+    },
+    {
+      "description": "Pelicula de Celular",
+      "price": 20,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "05-06-2023",
+      "id": 4
+    }
+  ]
+}
